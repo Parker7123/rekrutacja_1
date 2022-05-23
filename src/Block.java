@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface Block {
+public interface Block {
+    String getColor();
+    String getMaterial();
 }
